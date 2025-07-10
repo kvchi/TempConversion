@@ -7,9 +7,9 @@ conditional logic, and dynamic DOM updates.
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo 
 
-👉 [Try it Live] 
+👉 [Try it Live] (https://kvchi.github.io/TempConversion/)
 
 ---
 
